@@ -15,4 +15,4 @@ else:
        factorial = factorial*i
    print("The factorial of",num,"is",factorial)
    print("factorial number")
-
+ print("factorial number")
