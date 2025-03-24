@@ -1,6 +1,5 @@
 x = input("Type a number: ")
 y = input("Type another number: ")
 
-sum = int(x) + int(y)
-
-print("The sum is: ", sum) 
+sum = float(x) + float(y)
+print(f'The sum of {x} and {y} is {sum}') 
