@@ -14,5 +14,9 @@ else:
    for i in range(1,num + 1):
        factorial = factorial*i
    print("The factorial of",num,"is",factorial)
+<<<<<<< HEAD
    print("The factorial of",num,"is",factorial)
    
+=======
+ print("The factorial of",num,"is",factorial)
+>>>>>>> 56805626caa621e6c2c8fc40cb6056fdad3e3c99
